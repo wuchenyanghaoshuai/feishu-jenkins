@@ -1,2 +1,4 @@
 # feishu-jenkins
 飞书审批单发版jenkins
+修改jenkins账号和密码和redis地址账号密码
+获取飞书后台app的权限
